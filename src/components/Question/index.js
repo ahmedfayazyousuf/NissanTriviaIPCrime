@@ -17,44 +17,44 @@ const Q50Q2 = () => {
 
     var question = {
         1:{
-            "Question":"What is the country of origin for Geely Auto?",
+            "Question":"Fake brake pads compromises:",
             "Options":{
-                1:"China",
-                2:"Japan",
-                3:"Germany",
-                4:"United States"
+                1:"Ability to Slow Down",
+                2:"Ability to Stop in Time",
+                3:"Both a & b",
+                4:"None of the above"
             },
-            "Answer":1
+            "Answer":3
         },
         2:{
-            "Question":"Geely Auto acquired an equity stake in which European car manufacturer in 2010?",
+            "Question":"Which part is considered heart of the vehicle?",
             "Options":{
-                1:"Volvo Cars",
-                2:"Aston Martin",
-                3:"Mercedes",
-                4:"Lotus"
+                1:"Engine",
+                2:"Spark Plug",
+                3:"Fuel Pump",
+                4:"Control Module"
             },
             "Answer":1
         },
         3:{
-            "Question":"Geely Auto acquired a significant stake in which European car manufacturer? ",
+            "Question":"These are the four most important reasons to always use Nissan Genuine parts : Safety, Quality, Longevity & 4. ",
             "Options":{
-                1:"BMW",
-                2:"Volkswagan",
-                3:"Daimler AG",
-                4:"Renault"
+                1:"Price",
+                2:"Reliability",
+                3:"Packaging",
+                4:"Look & Feel"
             },
-            "Answer":3
+            "Answer":2
         },
         4:{
-            "Question":"Which Geely products will be launched as the first batch in the UAE market? ",
+            "Question":"What is the first indicator you notice to differentiate genuine from fake?",
             "Options":{
-                1:"Coolray",
-                2:"Emgrand",
-                3:"Geometry C",
-                4:"OPTION D"
+                1:"Packaging",
+                2:"Quality",
+                3:"Part Label",
+                4:"None of the above"
             },
-            "Answer":1
+            "Answer":4
         }
     }
 
